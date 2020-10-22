@@ -3,6 +3,7 @@ groups:
   - Content
   - Settings
   - Other
+  - Cat
 title:
   group: Content
   type: input
@@ -20,5 +21,10 @@ option:
     - One
     - Two
     - Three
+Catman:
+  group: Cat
+  type: input
+  label: Title
+  value: Title
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem est, vestibulum at rhoncus eu, aliquet non dolor. Morbi sed mi lorem. Nullam cursus augue sapien, vitae malesuada neque sagittis et. 2
