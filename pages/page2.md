@@ -1,5 +1,5 @@
 ---
-groups: 
+groups:
   - Content
   - Settings
   - Other
@@ -17,10 +17,11 @@ option:
   group: Content
   type: select
   label: Option
-  value: One
+  value: Two
   options:
     - One
     - Two
     - Three
+  id: option
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem est, vestibulum at rhoncus eu, aliquet non dolor. Morbi sed mi lorem. Nullam cursus augue sapien, vitae malesuada neque sagittis et.
